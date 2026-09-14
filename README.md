@@ -1,8 +1,10 @@
-# Привет, я Рамазан! 
+<img src="photo.jpg" width="100%" alt="Japan Night">
+
+# Привет, я Рамазан! 👋
 
 - Я 18-летний разработчик и студент из Астаны. 
 
-### Мой стек технологий:
+### 💻 Мой стек технологий:
 
 **Фронтенд:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
