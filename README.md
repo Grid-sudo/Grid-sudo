@@ -5,6 +5,8 @@
 - Я 18-летний разработчик и студент из Астаны.
 - Учусь в Astana It University
 
+---
+
 ### Мой стек технологий:
 
 **Фронтенд:**  
@@ -27,6 +29,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
 
 ### Как со мной связаться:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_юзернейм)
