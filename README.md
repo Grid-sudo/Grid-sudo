@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="100%" height="200px" alt="Japan Night">
+<img src="photo_2026-09-14_23-16-02.jpg" width="100%" height="200px" alt="Japan Night">
 
 # Привет, я Рамазан! 👋
 
