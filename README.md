@@ -1,4 +1,4 @@
-<img src="photo.jpg" width="100%" alt="Japan Night">
+<img src="photo.jpg" width="100%" height="200px" alt="Japan Night">
 
 # Привет, я Рамазан! 👋
 
