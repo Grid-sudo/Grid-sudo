@@ -1,10 +1,11 @@
 <img src="photo_2026-09-14_23-16-02.jpg" width="100%" height="200px" alt="Japan Night">
 
-# Привет, я Рамазан! 👋
+# Hello, I am Ramazan.
 
-- Я 18-летний разработчик и студент из Астаны. 
+- Я 18-летний разработчик и студент из Астаны.
+- Учусь в Astana It University
 
-### 💻 Мой стек технологий:
+### Мой стек технологий:
 
 **Фронтенд:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### 📫 Как со мной связаться:
+### Как со мной связаться:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_юзернейм)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твоя.почта@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_профиль)
