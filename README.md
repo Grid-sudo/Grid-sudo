@@ -1,4 +1,4 @@
-<img src="photo_2026-09-14_23-16-02.jpg" style="border-radius: 20px; width: 100%;">
+<img src="photo_2026-09-14_23-16-02.jpg" style="border-radius: 20px; width: 100%; height: 200px">
 
 # Hello, I am Ramazan.
 
