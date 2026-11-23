@@ -38,4 +38,4 @@
 **Contact me:**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-kantaev-672750436/)
-[![Google Developers](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/ramazankantaev)
+[![Google Developers](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/Ramazan)
